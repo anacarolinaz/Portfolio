@@ -1,2 +1,5 @@
-# data_science
-My projects/portfolio
+
+<p align="center">
+  <img src="banner.png" >
+</p>
+
