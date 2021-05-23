@@ -6,4 +6,4 @@
 </p>
 
 
-<p>Here you can find my Machine Learning, Deep learning and Data Science projects</p>
+<p>Here you can find the <i>notbooks</i> of my Machine Learning, Deep learning and Data Science projects</p>
