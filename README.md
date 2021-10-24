@@ -5,7 +5,7 @@
 </p>
 
 
-<p>Here you can find the <i>notebooks</i> of my Machine Learning, Deep learning and Data Science projects</p>
+<p>Here you can find the <i>notebooks</i> of my Machine Learning, Deep learning and Data Science projects.</p>
 
 <b><h1>Projects:</h1></b>
 
