@@ -5,8 +5,9 @@
 </p>
 
 
-<p>Here you can find the <i>notebooks</i> of my Machine Learning, Deep learning and Data Science projects.</p>
+<p>Aqui você pode encontrar meus projetos de Ciência de dados e Machine Learning.</p>
 
-<b><h1>Projects:</h1></b>
+<b><h1>Projetos:</h1></b>
 
-* **Analyzing the evolution of the space sector since 1957:** https://bit.ly/3bX6pbd
+* **Análise da evolução do setor espacial desde 1957 (projeto em inglês):** https://bit.ly/3bX6pbd
+* **Availiação de Risco de Crédito:** https://bityli.com/0yZQco
