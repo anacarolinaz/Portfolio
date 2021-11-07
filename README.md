@@ -10,4 +10,4 @@
 <b><h1>Projetos:</h1></b>
 
 * **Análise da evolução do setor espacial desde 1957 (projeto em inglês):** https://bit.ly/3bX6pbd
-* **Availiação de Risco de Crédito:** encurtador.com.br/EIP79
+* **Availiação de Risco de Crédito:** https://url.gratis/GgKCqe
