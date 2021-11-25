@@ -10,5 +10,6 @@
 
 <b><h1>Projetos:</h1></b>
 
-* **Análise da evolução do setor espacial desde 1957 (Projeto em inglês):** https://bit.ly/3bX6pbd
+**Banco e Finanças**
+
 * **Availiação de Risco de Crédito:** https://bityli.com/akTFv0
