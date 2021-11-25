@@ -6,7 +6,7 @@
 
 <img src="bannergit.jpg">
 
-<p>Aqui você pode encontrar meus projetos de Ciência de dados e Machine Learning.</p>
+<p>Aqui você pode encontrar meus projetos de Ciência de dados, Machine Learning, Automações com Arduino e Visão Computacional.</p>
 
 <b><h1>Projetos:</h1></b>
 
