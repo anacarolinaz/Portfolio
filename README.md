@@ -4,7 +4,7 @@
 <p align="center">
 </p>
 
-<img src="bannergit">
+<img src="bannergit.jpg">
 
 <p>Aqui você pode encontrar meus projetos de Ciência de dados e Machine Learning.</p>
 
