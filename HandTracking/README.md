@@ -10,7 +10,7 @@ Mais informações sobre o OpenCV podem ser adquiridas aqui (https://opencv.org/
 
 * <p><b>Mediapipe</b> é uma estrutura usada principalmente para criar dados de áudio, vídeo ou qualquer série de tempo. Com a ajuda da estrutura MediaPipe, podemos construir pipelines impressionantes para diferentes funções de processamento de mídia.</p>
 
-<b><h3>Você pode acessar o projeto pelo link: https://bityli.com/hwu3mC</h3></b>
+<b><h3>Você pode acessar o projeto pelo link: https://github.com/anacarolinaz/portfolio/blob/main/HandTracking/Rastreamento_de_m%C3%A3os_com_OpenCV</h3></b>
 
 <b><h2>Fotos do projeto:</h2></b>
 
