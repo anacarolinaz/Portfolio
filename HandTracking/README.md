@@ -20,4 +20,6 @@ Algumas das principais aplicações do <b>MediaPipe</b>.
 
 <b><h2>Fotos do projeto:</h2></b>
 
-<img src="img1.jpg"> <img src="img2.jpg">
+<img src="img1.jpg">
+<p></p>
+<img src="img2.jpg">
