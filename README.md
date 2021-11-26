@@ -8,13 +8,11 @@
 
 <p>Aqui você pode encontrar meus projetos de Ciência de dados, Machine Learning, Automações com Arduino e Visão Computacional.</p>
 
-<b><h1>Ciência de dados</h1></b>
+<b><h1>Projetos</h1></b>
 
 **Banco e Finanças**
 
 * **Availiação de Risco de Crédito:** https://bityli.com/akTFv0
-
-<b><h1>Automações</h1></b>
 
 **Arduino/ESP para automações**
 
