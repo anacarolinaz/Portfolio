@@ -18,5 +18,6 @@ Algumas das principais aplicações do <b>MediaPipe</b>.
 * Objectron: Detecção e rastreamento de objetos 3D
 * AutoFlip: pipeline de corte automático de vídeo etc.</p>
 
-Fotos do projeto:
+<b><h2>Fotos do projeto:</h2></b>
+
 <img src="img1.jpg"> <img src="img2.jpg">
