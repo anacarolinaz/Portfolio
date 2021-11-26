@@ -14,6 +14,10 @@
 
 * **Avaliação de Risco de Crédito:** https://bityli.com/akTFv0
 
+**Industria Aeroespacial**
+
+* **The evolution of the space sector since 1957:** https://bityli.com/Lvaky8
+
 **Arduino/ESP para automações**
 
 * **Trava Eletrônica acionada por Leitor RFID (RC522): Em breve**
