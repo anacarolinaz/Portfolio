@@ -18,6 +18,6 @@
 
 * **The evolution of the space sector since 1957:** https://bityli.com/3JThmT
 
-**Arduino/ESP para automações**
+**Arduino/Esp para automações**
 
 * **Trava Eletrônica acionada por Leitor RFID (RC522): Em breve**
