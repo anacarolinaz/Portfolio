@@ -10,7 +10,7 @@
 
 <b><h1>Projetos:</h1></b>
 
-**Banco e Finanças**
+**Análise de dados para Banco e Finanças**
 
 * **Availiação de Risco de Crédito:** https://bityli.com/akTFv0
 
