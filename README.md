@@ -12,7 +12,7 @@
 
 **Banco e Finanças**
 
-* **Availiação de Risco de Crédito:** https://bityli.com/akTFv0
+* **Avaliação de Risco de Crédito:** https://bityli.com/akTFv0
 
 **Arduino/ESP para automações**
 
