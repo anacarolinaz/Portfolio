@@ -14,6 +14,10 @@
 
 * **Availiação de Risco de Crédito:** https://bityli.com/akTFv0
 
+**Esportes**
+
+* **Análise Exploratória de dados de clubes e competições:**
+
 <b><h1>Automações</h1></b>
 
 **Arduino/ESP para automações**
