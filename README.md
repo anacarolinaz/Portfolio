@@ -14,6 +14,6 @@
 
 * **Availiação de Risco de Crédito:** https://bityli.com/akTFv0
 
-** Arduino/ESP para automações **
+**Arduino/ESP para automações**
 
 * **Trava Eletrônica acionada por Leitor RFID (RC522): Em breve**
