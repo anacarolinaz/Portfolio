@@ -19,4 +19,4 @@ Algumas das principais aplicações do <b>MediaPipe</b>.
 * AutoFlip: pipeline de corte automático de vídeo etc.</p>
 
 Fotos do projeto:
-<img src="img1"> <img src="img2">
+<img src="img1.jpg"> <img src="img2.jpg">
