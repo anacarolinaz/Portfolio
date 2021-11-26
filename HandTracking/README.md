@@ -1,4 +1,4 @@
-<h1>Detector de mãos com python + OpenCV</h1>
+<h1>Detector de mãos com Python + OpenCV</h1>
 
 <p>Este é um código base para estudo introdutório em Visão Computacional, o detector de mãos pode ser usado em diversas situações e projetos, logo sinta-se a vontade para utilizá-lo em sistemas avulsos.
 	
