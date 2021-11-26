@@ -1,7 +1,3 @@
-<h1>Rastreamento de mãos com OpenCV (Python)</h1>
-
-<p>Esse é um projeto de entrada nos estudos de visão computacional</p>
-
 
 import cv2
 import mediapipe as mp
