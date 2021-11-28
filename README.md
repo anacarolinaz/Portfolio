@@ -18,6 +18,10 @@
 
 * **The evolution of the space sector since 1957:** https://bityli.com/3JThmT
 
+**Visão Computacional**
+
+* **Detector de mãos com Python + OpenCV:**https://url.gratis/F46nMV
+
 **Arduino/Esp para automações**
 
 * **Trava Eletrônica acionada por Leitor RFID (RC522): Em breve**
