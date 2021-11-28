@@ -12,8 +12,7 @@ Mais informações sobre o OpenCV podem ser adquiridas aqui (https://opencv.org/
 
 <b><h3>Você pode acessar o código pelo link: https://url.gratis/0JmsQf</h3></b>
 
-<b><h2>Fotos do projeto:</h2></b>
+<b><h2>Foto ilustrativa do projeto:</h2></b>
 
 <img src="img1.jpg">
 <p></p>
-<img src="img2.jpg">
