@@ -10,6 +10,8 @@
 
 <b><h1>Projetos</h1></b>
 
+<b><h2>Ciência de dados</h2></b>
+
 **Banco e Finanças**
 
 * **Avaliação de Risco de Crédito:** https://bityli.com/akTFv0
@@ -18,10 +20,10 @@
 
 * **The evolution of the space sector since 1957:** https://bityli.com/3JThmT
 
-**Visão Computacional**
+<b><h2>Visão Computacional</h2></b>
 
 * **Detector de mãos com Python + OpenCV:** https://url.gratis/F46nMV
 
-**Arduino/Esp para automações**
+<b><h2>Automações (Esp/Arduino)</h2><b>
 
 * **Trava Eletrônica acionada por Leitor RFID (RC522): Em breve**
