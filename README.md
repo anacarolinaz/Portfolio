@@ -20,7 +20,7 @@
 
 **Visão Computacional**
 
-* **Detector de mãos com Python + OpenCV:**https://url.gratis/F46nMV
+* **Detector de mãos com Python + OpenCV:** https://url.gratis/F46nMV
 
 **Arduino/Esp para automações**
 
