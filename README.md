@@ -6,7 +6,7 @@
 
 <img src="bannergit.jpg">
 
-<p>Aqui você pode encontrar meus projetos de Ciência de dados, Machine Learning, Automações com Arduino e Visão Computacional. As seguintes linguagens poderão ser utilizadas nos projetos: Python, C++, JavaScript, PHP e Golang. </p>
+<p>Aqui você pode encontrar meus projetos de Ciência de dados, Machine Learning, Automações com Arduino e Visão Computacional. Linguagens utilizadas: Python, C++, JavaScript, PHP e Golang. </p>
 
 <b><h1>Projetos</h1></b>
 
