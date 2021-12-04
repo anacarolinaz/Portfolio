@@ -16,7 +16,7 @@
 
 * **Avaliação de Risco de Crédito:** https://bityli.com/akTFv0
 
-**Industria Aeroespacial**
+**Indústria Aeroespacial**
 
 * **The evolution of the space sector since 1957:** https://bityli.com/3JThmT
 
