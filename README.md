@@ -23,7 +23,6 @@
 <b><h2>Machine Learning</h2></b>
 
 * **Sistema de Recomendação de Filmes:**
-* **Sistema de Recomendação de Produtos:**
 
 <b><h2>Visão Computacional</h2></b>
 
