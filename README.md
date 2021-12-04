@@ -20,6 +20,11 @@
 
 * **The evolution of the space sector since 1957:** https://bityli.com/3JThmT
 
+<b><h2>Machine Learning</h2></b>
+
+* **Sistema de Recomendação de Filmes:**
+* **Sistema de Recomendação de Produtos:**
+
 <b><h2>Visão Computacional</h2></b>
 
 * **Detector de mãos com Python + OpenCV:** https://url.gratis/F46nMV
