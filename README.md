@@ -28,6 +28,3 @@
 
 * **Detector de mãos com Python + OpenCV:** https://url.gratis/F46nMV
 
-<b><h2>Automações (Esp/Arduino)</h2><b>
-
-* **Trava Eletrônica acionada por Leitor RFID (RC522): Em breve**
