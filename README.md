@@ -10,8 +10,6 @@
 
 <b><h1>Projetos</h1></b>
 
-<b><h2>Ciência de dados</h2></b>
-
 **Banco e Finanças**
 
 * **Avaliação de Risco de Crédito:** https://bityli.com/akTFv0
@@ -20,7 +18,7 @@
 
 * **The evolution of the space sector since 1957:** https://bityli.com/3JThmT
 
-<b><h2>Machine Learning</h2></b>
+**Machine Learning**
 
 * **Sistema de Recomendação de Filmes:** https://bit.ly/3H1UuG3
 
