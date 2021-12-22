@@ -22,7 +22,7 @@
 
 <b><h2>Machine Learning</h2></b>
 
-* **Sistema de Recomendação de Filmes:** https://bit.ly/3bX6pbd
+* **Sistema de Recomendação de Filmes:** https://bit.ly/3H1UuG3
 
 <b><h2>Visão Computacional</h2></b>
 
