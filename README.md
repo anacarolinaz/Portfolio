@@ -22,7 +22,7 @@
 
 * **Sistema de Recomendação de Filmes:** https://bit.ly/3H1UuG3
 
-<b><h2>Visão Computacional</h2></b>
+**Visão Computacional**
 
 * **Detector de mãos com Python + OpenCV:** https://bit.ly/3qfQwmu
 
