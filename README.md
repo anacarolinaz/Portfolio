@@ -26,5 +26,5 @@
 
 <b><h2>Visão Computacional</h2></b>
 
-* **Detector de mãos com Python + OpenCV:** https://url.gratis/F46nMV
+* **Detector de mãos com Python + OpenCV:** https://bit.ly/3qfQwmu
 
