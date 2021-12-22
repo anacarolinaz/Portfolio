@@ -18,9 +18,10 @@
 
 * **The evolution of the space sector since 1957:** https://bityli.com/3JThmT
 
-**Machine Learning**
+**Machine Learning/Deep Learning**
 
 * **Sistema de Recomendação de Filmes:** https://bit.ly/3H1UuG3
+* **Classificação de Roupas usando Deep Learning:** https://bit.ly/33UZ8Yl
 
 **Visão Computacional**
 
